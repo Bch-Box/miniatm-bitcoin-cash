@@ -1,30 +1,25 @@
-# The Minimal theme
+# BCH MiniATM
 
-[![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+![Thumbnail of minimal](banner.png)
 
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
+## Summary
 
-![Thumbnail of minimal](thumbnail.png)
+MiniATM is a compact and simple Bitcoin Cash ATM.
+Easy to use and to reproduce, open source and low-cost.
+Simple one-way Fiat-to-Crypto exchange to spread BCH adoption. 
 
-## Usage
+Designed for DIY fabrication with off-the-shelf components. 
+Anyone is free to build and distribute units locally, where ever they may be. 
+Comprised only of a tablet computer, bill validator and a laser-cut
+acrylic structure. Make or purchase as a KIT with a price target under 600$.
 
-To use the Minimal theme:
-
-1. Add the following to your site's `_config.yml`:
-
-    ```yml
-    theme: jekyll-theme-minimal
-    ```
-
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
-
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
-
+Units are securely fixed on walls by tamper proof metal brackets. 
+Anti-theft cables are used for over-the-counter locations. 
 
 
 ## Customizing
+
+Download .dxf file
 
 ### Configuration variables
 
