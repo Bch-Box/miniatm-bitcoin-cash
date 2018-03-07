@@ -3,7 +3,7 @@ layout: default
 ---
 # A simple BCH ATM
 
-![Thumbnail of minimal](main.png)
+![Thumbnail of minimal](banner.png)
 
 ## Summary
 
@@ -20,10 +20,19 @@ Units are securely fixed on walls by tamper proof metal brackets.
 Anti-theft cables are used for over-the-counter locations. 
 
 ## Timeline:
+
 March 2018_ Prototype refinements 
 April 2018_ App and Back-end completion
 May   2018_ Material and component sourcing
 June  2018_ First units shipped
+
+| head1       | head two          | 
+|:------------|:------------------|
+| March 2018  | Prototype refinements  |
+| April 2018  | App and Back-end completion  | 
+| May   2018  | Material and component sourcing     |
+| June  2018  | First units shipped | 
+
 
 ## Goals:
 
@@ -34,5 +43,6 @@ Provide continued support and feedback to and from the BCH community until Janua
 ## BCF Budget:
 
 20 unit presale   :    20 BCH      March   2018
+
 ----------------------------------------------
 Total Funding     :    20 BCH
