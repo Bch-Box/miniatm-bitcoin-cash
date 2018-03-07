@@ -3,7 +3,7 @@ layout: default
 ---
 # A simple BCH ATM
 
-![Thumbnail of minimal](images/banner.png)
+![Thumbnail of minimal](main.png)
 
 ## Summary
 
