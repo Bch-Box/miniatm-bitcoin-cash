@@ -19,9 +19,8 @@ acrylic structure. Make or purchase as a KIT with a price target under 600$.
 Units are securely fixed on walls by tamper proof metal brackets. 
 Anti-theft cables are used for over-the-counter locations. 
 
-## Timeline:
+## Timeline
 
-|             |                   | 
 |:------------|:------------------|
 | March 2018  | Prototype refinements  |
 | April 2018  | App and Back-end completion  | 
@@ -29,9 +28,8 @@ Anti-theft cables are used for over-the-counter locations.
 | June  2018  | First units shipped | 
 
 
-## Goals:
+## Goals
 
-|August 2018        |Make and ship the first 20 MiniATM units |
-|September 2018     |Open source and document for fabrication by 3rd parties by September 2018|
-|until January 2020 |Provide continued support and feedback to and from the BCH community |
+* Make and ship the first 20 MiniATM units 
+* Provide continued support and feedback to and from the BCH community 
 
