@@ -21,11 +21,6 @@ Anti-theft cables are used for over-the-counter locations.
 
 ## Timeline:
 
-March 2018_ Prototype refinements 
-April 2018_ App and Back-end completion
-May   2018_ Material and component sourcing
-June  2018_ First units shipped
-
 | head1       | head two          | 
 |:------------|:------------------|
 | March 2018  | Prototype refinements  |
