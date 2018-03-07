@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 # A simple Bitcoin Cash ATM
 
