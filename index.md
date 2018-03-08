@@ -2,8 +2,8 @@
 layout: default
 ---
 # A simple Bitcoin Cash ATM
+![] (https://imgur.com/rxN2bva)
 
-![Thumbnail of minimal](banner.png)
 
 ## Summary
 
