@@ -2,7 +2,7 @@
 layout: default
 ---
 # A simple Bitcoin Cash ATM
-![] (https://imgur.com/rxN2bva)
+![banner](banner.png)
 
 
 ## Summary
@@ -18,6 +18,9 @@ acrylic structure. Make or purchase as a KIT with a price target under 600$.
 
 Units are securely fixed on walls by tamper proof metal brackets. 
 Anti-theft cables are used for over-the-counter locations. 
+
+![image](https://i.imgur.com/rxN2bva.jpg)
+
 
 ## Timeline
 
