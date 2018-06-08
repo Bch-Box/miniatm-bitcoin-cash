@@ -19,14 +19,6 @@ acrylic structure. Make or purchase as a KIT with a price target under 600$.
 Units are securely fixed on walls by tamper proof metal brackets. 
 Anti-theft cables are used for over-the-counter locations. 
 
-## Timeline
-
-|:------------|:------------------|
-| March 2018  | Prototype refinements  |
-| April 2018  | App and Back-end completion  | 
-| May   2018  | Material and component sourcing     |
-| June  2018  | First units shipped | 
-
 
 ## Goals
 
