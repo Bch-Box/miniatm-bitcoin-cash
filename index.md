@@ -22,15 +22,6 @@ Anti-theft cables are used for over-the-counter locations.
 ![image](https://i.imgur.com/rxN2bva.jpg)
 
 
-## Timeline
-
-|:------------|:------------------|
-| March 2018  | Prototype refinements  |
-| April 2018  | App and Back-end completion  | 
-| May   2018  | Material and component sourcing     |
-| June  2018  | First units shipped | 
-
-
 ## Goals
 
 * Make and ship the first 20 MiniATM units 
