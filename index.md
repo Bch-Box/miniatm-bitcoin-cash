@@ -29,5 +29,5 @@ Anti-theft cables are used for over-the-counter locations.
 * Sell kits and assembled units
 * Continued support and feedback to and from the BCH community 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=JPtrLKAc8lQ)
+[![IMAGE ALT TEXT](http://i3.ytimg.com/vi/JPtrLKAc8lQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=JPtrLKAc8lQ)
 
