@@ -25,7 +25,9 @@ Anti-theft cables are used for over-the-counter locations.
 ## Goals
 
 * Make and ship the first 20 MiniATM units 
-* Open source and document for fabrication by 3rd parties 
+* Open source and document for 3rd party fabrication    
 * Sell kits and assembled units
-* Provide continued support and feedback to and from the BCH community 
+* Continued support and feedback to and from the BCH community 
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=JPtrLKAc8lQ)
 
