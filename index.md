@@ -23,6 +23,7 @@ Anti-theft cables are used for over-the-counter locations.
 
 ![image](https://i.imgur.com/rxN2bva.jpg)
 
+https://www.youtube.com/watch?v=JPtrLKAc8lQ
 
 ## Goals
 
