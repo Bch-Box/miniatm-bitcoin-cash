@@ -23,4 +23,4 @@ Anti-theft cables are used for over-the-counter locations.
 * Raise development funds.
 * Make and run the first 30 MiniATM units.
 * Revenue share with network of retailers.
-* Scale
+* Scale world wide
